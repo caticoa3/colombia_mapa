@@ -1,4 +1,4 @@
-# Divisiones Políticas Departamental y Municipal en Colombia 
+# Departamentos y Municipos en Colombia en Formato Geojson y Topojson.
 Creado con información publica en la [Geopartal DANE de Colombia](https://geoportal.dane.gov.co/servicios/descarga-y-metadatos/descarga-mgn-marco-geoestadistico-nacional/). Allí puedes obtener las divisiones políticas [municipales]('https://geoportal.dane.gov.co/descargas/mgn_2018/MGN2018_MPIO_POLITICO.rar') y [departamentales]('https://geoportal.dane.gov.co/descargas/mgn_2018/MGN2018_DPTO_POLITICO.zip') en formato *shape* .shp. 
 
 Con la aplicación [mapshaper.org](https://mapshaper.org/) de [Matt Bloch](http://www.cartogis.org/docs/proceedings/2006/bloch_harrower.pdf) los detalles geográficos fueron simplificados y exportados a formato topojson, creando un archivo mas liviano.
